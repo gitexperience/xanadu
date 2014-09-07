@@ -1,0 +1,27 @@
+#pageContent h2.account {margin: 0; padding: 0; font-weight: normal; font-size: 1.6em}
+
+#pageContent .accountInfo h3 {margin: 0; padding: 0; font-weight: normal}
+
+#pageContent .yourInstall a {color: #000; font-weight: normal}
+#pageContent .yourInstall a span, #pageContent .yourInstall span{text-transform: uppercase; font-weight: bold}
+
+#pageContent .active {color: green; font-weight: bold; text-transform: uppercase}
+#pageContent .not_active {color: red; font-weight: bold; text-transform: uppercase}
+#pageContent .trial {color: blue; font-weight: bold; text-transform: uppercase}
+
+#pageContent #activate a {background: green; color: #fff; text-transform: uppercase; padding: 1em; margin: 10px 0; float: left; -moz-border-radius: 10px;-webkit-border-radius:10px}
+#pageContent #activate a:hover {background: #fc9807}
+
+#pageContent .accountInfo {width: 100%; background: #f2f2f2; margin: 5px 0 1.4em 0; }
+#pageContent .accountInfo td {padding: 5px 10px; border-bottom: 1px solid #fff; border-right: 1px solid #fff; font-weight: bold}
+
+#pageContent .accountInfo td.label {background: #eee; font-weight: normal; width: 25%}
+#pageContent .accountInfo td.info {background: #ddd; font-weight: normal; width: 75%}
+
+#pageContent .message_error {display: block; width: 750px; background: #ff4040; padding: 1px 10px 10px 10px; margin: 0 0 1.4em 0; color: #fff; font-size: 16px}
+#pageContent .message {display: block; width: 750px; background: #40a040; padding: 1px 10px 10px 10px; margin: 0 0 1.4em 0; color: #fff; font-size: 16px}
+#pageContent .message h2 {margin: 0; padding: 10px 0 0 0; font-weight: normal; font-size: 1.4em}
+#pageContent .message p {margin: 0; padding: 0}
+#pageContent .message p a {background: #fc9807; color: #fff; font-weight: normal; padding: 2px 7px}
+#pageContent .message p a:hover {text-decoration: underline}
+#pageContent .not_confirmed {color: red; font-weight: bold}
